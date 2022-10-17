@@ -10,3 +10,4 @@ Vagrant.configure("2") do |config|
         vb.cpus = 4
         vb.memory = "8192"
     end
+end
